@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Risana Bonnia Maluleke
-- 👀 I’m interested in Programming and Hacking
+- 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Computer Systems 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0780594548, bonniar23@gmail.com
