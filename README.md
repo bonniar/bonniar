@@ -1,5 +1,6 @@
--👋 Hello, I’m Risana Bonnia Maluleke
--A passionate tech enthusiast with a love for problem-solving and innovation.
+👋 Hello, I’m Risana Bonnia Maluleke
+-
+A passionate tech enthusiast with a love for problem-solving and innovation.
 -
 -Electrical Engineering Student : Computer Systems 
 
@@ -9,7 +10,7 @@
 
 -Focused on bridging hardware and software through embedded systems, networking, and automation.
 
--💻 Technical Interests
+💻 Technical Interests
 -
 -Programming: Python, C/C++, and MATLAB for engineering applications.
 -Key Areas: Industrial computing, IoT, and control systems.
@@ -20,10 +21,10 @@
 -Hobbies: Tinkering with Raspberry Pi/Arduino, reading sci-fi, and learning new languages (human and machine!).
 -Fun Fact: I believe the best debug sessions involve coffee and a multimeter. ☕🔌
 
--📫 Let’s Connect!
+📫 Let’s Connect!
 -
--Phone: 078 059 4548
--Email: bonniar23@gmail.com
+- 📱Phone: 078 059 4548
+- 📧Email: bonniar23@gmail.com
 - 😄Pronouns: He/Him
 - “Turning coffee into code, one line at a time.” ☕💻
 
