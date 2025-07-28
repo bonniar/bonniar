@@ -15,7 +15,7 @@
 -Key Areas: Industrial computing, IoT, and control systems.
 -Collaboration: Open to projects in robotics, AI-driven automation, or open-source hardware/software.
 
-- 🌱 Beyond the Lab
+🌱 Beyond the Lab
 -
 -Hobbies: Tinkering with Raspberry Pi/Arduino, reading sci-fi, and learning new languages (human and machine!).
 -Fun Fact: I believe the best debug sessions involve coffee and a multimeter. ☕🔌
